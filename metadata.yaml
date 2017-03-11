@@ -1,5 +1,8 @@
 _repo: McTeague--A-Story-of-San-Francisco_165
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norris, Frank
@@ -15,6 +18,8 @@ description: "McTeague is a novel by Frank Norris, first published in 1899. It t
   \ book was the basis for the films McTeague (1916), Erich von Stroheim's Greed (1924),\
   \ and Slow Burn (2000). It was also adapted as an opera by William Bolcom in 1992.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/165#McTeague--A-Story-of-San-Francisco
 gutenberg_issued: '2006-03-12'
 gutenberg_type: Text
 identifiers:
